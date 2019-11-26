@@ -1,2 +1,2 @@
 # erikand
-my portfolio website
+my portfolio website - under construction
